@@ -5,6 +5,15 @@ First to reach **5 wins** takes the crown. 👑
 
 ---
 
+## 🔗 Play Online
+
+👉 **Live version:**  
+https://reatsenkovacoding.github.io/Rock-paper-scissors-project/
+
+No setup needed — just click and play.
+
+---
+
 ## 🎮 Gameplay
 
 - Click one of the move buttons: **Rock**, **Paper**, or **Scissors**.
