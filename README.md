@@ -61,6 +61,5 @@ No setup needed — just click and play.
 Enjoy the game & feel free to fork / tweak it. ✌
 
 ## 📜 License
-All rights reserved.  
-This project is proprietary — no copying, modification, or redistribution allowed.
+Copyright © 2025 Rea Tsenkova All rights reserved. Redistribution, modification, or commercial use is strictly prohibited.
 
