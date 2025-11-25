@@ -115,5 +115,9 @@ function pickComputerMove() {
   return computerMove;
 
 }
-// Copyright (c) 2025 Rea Tsenkova — All rights reserved.
-// Unauthorized copying, modification, or redistribution is prohibited.
+/*
+  Copyright (c) 2025 Rea Tsenkova — All rights reserved.
+  Unauthorized copying, modification, or redistribution is prohibited.
+*/
+
+
