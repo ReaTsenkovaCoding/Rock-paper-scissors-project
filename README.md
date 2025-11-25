@@ -1,4 +1,4 @@
-# ✊🖐✌ Rock Paper Scissors
+# ✊🖐✌ Rock Paper Scissors✌🖐✊
 
 A tiny web game where you duel a bot in classic Rock–Paper–Scissors.  
 First to reach **5 wins** takes the crown. 👑
