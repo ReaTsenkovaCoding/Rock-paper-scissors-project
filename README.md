@@ -60,7 +60,7 @@ No setup needed — just click and play.
 
 Enjoy the game & feel free to fork / tweak it. ✌
 
-## License
+## 📜 License
 All rights reserved.  
 This project is proprietary — no copying, modification, or redistribution allowed.
 
