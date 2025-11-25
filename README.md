@@ -59,3 +59,8 @@ No setup needed — just click and play.
 - Add difficulty levels or streak bonuses.
 
 Enjoy the game & feel free to fork / tweak it. ✌
+
+## License
+All rights reserved.  
+This project is proprietary — no copying, modification, or redistribution allowed.
+
