@@ -477,7 +477,11 @@ body {
 .theme-button[data-theme = "white"]{ background: rgb(255, 255, 255); }
 
 @media (max-width: 1325px){
+  
   .title{ font-size: 56px; }
+  body{
+    padding-bottom: 120px;
+  }
   .move-button{
     width: 120px;
     height: 120px;
