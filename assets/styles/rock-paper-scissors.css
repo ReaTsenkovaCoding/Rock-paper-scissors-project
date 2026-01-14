@@ -475,3 +475,21 @@ body {
 .theme-button[data-theme="orange"]{ background: rgba(255, 140, 0, 0.622); }
 .theme-button[data-theme="yellow"]{ background: rgba(255, 221, 0, 0.701); }
 .theme-button[data-theme = "white"]{ background: rgb(255, 255, 255); }
+
+@media (max-width: 1325px){
+  .title{ font-size: 56px; }
+  .move-button{
+    width: 120px;
+    height: 120px;
+    border-radius: 60px;
+    margin: 0 8px;
+  }
+  .move-icon{ height: 42px; }
+  .theme-png-left.show{
+    display: none;
+  }
+  .theme-png-right.show{
+    display: none;
+  }
+
+}
