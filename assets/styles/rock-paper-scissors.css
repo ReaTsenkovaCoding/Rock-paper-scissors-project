@@ -489,6 +489,10 @@ body {
     margin: 0 8px;
   }
   .move-icon{ height: 42px; }
+  .clarification-message {
+    margin-bottom: 100px;
+  }
+  
   .theme-png-left.show{
     display: none;
   }
