@@ -59,7 +59,7 @@ body.theme-black {
   --border:white;
   --btnHover: rgba(200,200,200,0.1);
   --muted: rgba(255, 255, 255, 0.435);
-  --themePng: url('assets/images/black.png');
+  --themePng: url('../images/black.png');
 
 }
 
@@ -70,7 +70,7 @@ body.theme-purple{
   --border: #f3e8ff;
   --btnHover: rgba(125, 103, 149, 0.2);
   --muted: #d8bfff65;
-  --themePng: url('assets/images/purple.png');
+  --themePng: url('../images/purple.png');
 
   .reset-score-button{
     color: #7958ae;
@@ -87,7 +87,7 @@ body.theme-blue{
   --border: #c7d2fe;    
   --btnHover: rgba(100,116,139,0.25);
   --muted: #a5b4fc65;
-  --themePng: url('assets/images/blue.png');
+  --themePng: url('../images/blue.png');
 
   .reset-score-button{
     border: 3px solid #6371a7;
@@ -108,7 +108,7 @@ body.theme-green{
   --border: #ecffcc;    
   --btnHover: rgba(179, 255, 0, 0.25);
   --muted: #ecffcc65;
-  --themePng: url('assets/images/green.png');
+  --themePng: url('../images/green.png');
 
   .reset-score-button{
     color: rgba(66, 88, 15, 0.721);
@@ -123,7 +123,7 @@ body.theme-rainbow{
   --text: #f7f7f7;
   --btnHover: rgba(200, 200, 200, 0.453);
   --muted: linear-gradient(rgb(131, 21, 21), orange, rgb(255, 244, 88), rgb(59, 152, 59), rgb(89, 158, 255), rgb(112, 32, 170), violet) ;
-  --themePng: url('assets/images/rainbow.png');
+  --themePng: url('../images/rainbow.png');
 
   .move-button{
     border: 3px solid transparent;
@@ -154,7 +154,7 @@ body.theme-red{
   --border: #f89090;    
   --btnHover: rgba(255, 102, 102, 0.25);
   --muted: #a66c6cd1;
-  --themePng: url('assets/images/red.png');
+  --themePng: url('../images/red.png');
 
   .reset-score-button{
     border: 3px solid #a95050;
@@ -174,7 +174,7 @@ body.theme-orange{
   --border: #ffc588;    
   --btnHover: rgba(255, 132, 0, 0.296);
   --muted: #412d1be5;
-  --themePng: url('assets/images/orange.png');
+  --themePng: url('../images/orange.png');
 
   .reset-score-button{
     border: 3px solid #d78b4d;
@@ -194,7 +194,7 @@ body.theme-yellow{
   --text: #ffffff;      
   --border: #ffffff;    
   --muted: #6a5a1cc1;
-  --themePng: url('assets/images/yellow.png');
+  --themePng: url('../images/yellow.png');
 
   .move-button{
     background-color: #fde688;
@@ -229,7 +229,7 @@ body.theme-pink{
   --border: #ffb5d9;    
   --btnHover: rgba(252, 124, 198, 0.398);
   --muted: #eb9ac17b;
-  --themePng: url('assets/images/pink.png');
+  --themePng: url('../images/pink.png');
 
   .reset-score-button{
     border: 3px solid #d87ca3;
@@ -250,7 +250,7 @@ body.theme-white{
   --border: rgb(66,66,66);
   --btnHover: rgba(200, 200, 200, 0.228);
   --muted: rgba(71, 71, 71, 0.619);
-  --themePng: url('assets/images/white.png');
+  --themePng: url('../images/white.png');
 
   .reset-score-button{
     color: rgba(255,255,255,1);
