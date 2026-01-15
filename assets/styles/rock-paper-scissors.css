@@ -288,7 +288,7 @@ body {
 
   display:flex;
   justify-content: center;
-  align-items: center;
+  align-items: flex-start;
   min-height: center;
   min-height: 10vh;
   margin:0;
@@ -297,6 +297,7 @@ body {
 }
 
 .game {
+  margin-top: 40px;
   text-align: center;
 }
 
@@ -325,8 +326,8 @@ body {
 
   background-color: transparent;
   border: 3px solid var(--border);
-  width: 200px;
-  height: 200px;
+  width: min(200px, 28vw);
+  height: min(200px, 28vw);
   border-radius: 100px;
   margin-right: 15px;
   margin-left:15px;
