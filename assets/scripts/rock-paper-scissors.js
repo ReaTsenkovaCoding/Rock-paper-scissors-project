@@ -1,25 +1,7 @@
 const hoverSound = new Audio('assets/audio/hover.mp3');
 hoverSound.volume = 0.3;
 
-
-
-let score = JSON.parse(localStorage.getItem('score')) || {
-
-  wins: 0, 
-  losses: 0,
-  ties: 0
-}; 
-
-updateScoreElement();
-
-if(localStorage.getItem('lastMoves')){ //restore moves on page load
-
-  document.querySelector('.js-moves').innerHTML = localStorage.getItem('lastMoves');
-
-}
-
 let gameOver = false;
-
 function playGame(playerMove){
 
   if(gameOver) {
@@ -88,7 +70,28 @@ function playGame(playerMove){
     document.querySelector('.js-result').innerHTML = result
 
   }
+  else if(score.ties === 5){
+    gameOver = true;
+    document.querySelector('.js-result').innerHTML = result
+  }
+  
 }
+
+let score = JSON.parse(localStorage.getItem('score')) || {
+
+  wins: 0, 
+  losses: 0,
+  ties: 0
+}; 
+
+updateScoreElement();
+
+if(localStorage.getItem('lastMoves')){ //restore moves on page load
+
+  document.querySelector('.js-moves').innerHTML = localStorage.getItem('lastMoves');
+
+}
+
 
 function updateScoreElement() {
   
